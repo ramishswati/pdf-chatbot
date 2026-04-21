@@ -1,8 +1,12 @@
 # 🧠 DocuMind AI — PDF RAG Chatbot
 
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
+![GitHub stars](https://img.shields.io/github/stars/ramishswati/pdf-chatbot?style=social)
+
 > Upload any PDF and chat with it using AI — powered by HuggingFace (100% Free!)
 
----
 
 ## ✨ Features
 

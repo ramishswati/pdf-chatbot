@@ -140,5 +140,8 @@ Response + Source Files
 [GitHub](https://github.com/ramishkhan) | kramish033@gmail.com
 
 ---
+## 📜 License
+This project is licensed under the MIT License — feel free to use and modify.
+
 
 > 💼 Built as a portfolio project to demonstrate RAG, LangChain, and HuggingFace skills.

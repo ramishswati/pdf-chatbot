@@ -61,6 +61,15 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+## 📸 Screenshots
+
+### Upload & Chat Interface
+![Upload Section](images/upload_ui.png)
+
+### Chat Response Example
+![Chat Interface](images/chat_interface.png)
+
+
 ### 5. Open in Browser
 
 ```
